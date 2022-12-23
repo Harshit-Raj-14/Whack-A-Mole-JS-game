@@ -1,7 +1,7 @@
 # Whack-A-Mole-JS-game
 Whack A Mole is a single webpage game whose game mechanics is built using javascript language.
 
-Link - 
+Link - https://harshit-raj-14.github.io/Whack-A-Mole-JS-game/
 
 Instructions : 
 Press Start!
